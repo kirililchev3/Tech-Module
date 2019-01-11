@@ -1,0 +1,11 @@
+D:\Project's\Arrays\P02  Reverse an Array of Integers\obj\Debug\netcoreapp2.0\P02  Reverse an Array of Integers.csprojAssemblyReference.cache
+D:\Project's\Arrays\P02  Reverse an Array of Integers\obj\Debug\netcoreapp2.0\P02  Reverse an Array of Integers.csproj.CoreCompileInputs.cache
+D:\Project's\Arrays\P02  Reverse an Array of Integers\obj\Debug\netcoreapp2.0\P02  Reverse an Array of Integers.AssemblyInfoInputs.cache
+D:\Project's\Arrays\P02  Reverse an Array of Integers\obj\Debug\netcoreapp2.0\P02  Reverse an Array of Integers.AssemblyInfo.cs
+D:\Project's\Arrays\P02  Reverse an Array of Integers\bin\Debug\netcoreapp2.0\P02  Reverse an Array of Integers.deps.json
+D:\Project's\Arrays\P02  Reverse an Array of Integers\bin\Debug\netcoreapp2.0\P02  Reverse an Array of Integers.runtimeconfig.json
+D:\Project's\Arrays\P02  Reverse an Array of Integers\bin\Debug\netcoreapp2.0\P02  Reverse an Array of Integers.runtimeconfig.dev.json
+D:\Project's\Arrays\P02  Reverse an Array of Integers\bin\Debug\netcoreapp2.0\P02  Reverse an Array of Integers.dll
+D:\Project's\Arrays\P02  Reverse an Array of Integers\bin\Debug\netcoreapp2.0\P02  Reverse an Array of Integers.pdb
+D:\Project's\Arrays\P02  Reverse an Array of Integers\obj\Debug\netcoreapp2.0\P02  Reverse an Array of Integers.dll
+D:\Project's\Arrays\P02  Reverse an Array of Integers\obj\Debug\netcoreapp2.0\P02  Reverse an Array of Integers.pdb

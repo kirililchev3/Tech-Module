@@ -1,0 +1,10 @@
+D:\Project's\Arrays\P01 DaysOfWeek\bin\Debug\netcoreapp2.0\P01 DaysOfWeek.deps.json
+D:\Project's\Arrays\P01 DaysOfWeek\bin\Debug\netcoreapp2.0\P01 DaysOfWeek.runtimeconfig.json
+D:\Project's\Arrays\P01 DaysOfWeek\bin\Debug\netcoreapp2.0\P01 DaysOfWeek.runtimeconfig.dev.json
+D:\Project's\Arrays\P01 DaysOfWeek\bin\Debug\netcoreapp2.0\P01 DaysOfWeek.dll
+D:\Project's\Arrays\P01 DaysOfWeek\bin\Debug\netcoreapp2.0\P01 DaysOfWeek.pdb
+D:\Project's\Arrays\P01 DaysOfWeek\obj\Debug\netcoreapp2.0\P01 DaysOfWeek.csproj.CoreCompileInputs.cache
+D:\Project's\Arrays\P01 DaysOfWeek\obj\Debug\netcoreapp2.0\P01 DaysOfWeek.AssemblyInfoInputs.cache
+D:\Project's\Arrays\P01 DaysOfWeek\obj\Debug\netcoreapp2.0\P01 DaysOfWeek.AssemblyInfo.cs
+D:\Project's\Arrays\P01 DaysOfWeek\obj\Debug\netcoreapp2.0\P01 DaysOfWeek.dll
+D:\Project's\Arrays\P01 DaysOfWeek\obj\Debug\netcoreapp2.0\P01 DaysOfWeek.pdb
